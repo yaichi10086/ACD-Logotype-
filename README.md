@@ -1,4 +1,7 @@
-ACD Logotype
+⚠ License Page Only
+
+This page is provided for license and copyright information.
+The font file is NOT intended for public use or redistribution.
 
 ACD Logotype is a commercial typeface designed by BinU
 for ACD DANCE.
